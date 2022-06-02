@@ -1,0 +1,9 @@
+h1{text-align: center;}
+#perfil{text-align: center;}
+#luciano{width: 150px; height: 150px; }
+body{background-color: pink;}
+footer{text-align: center; background-color: crimson; color: white;}
+header{background-image: url(https://animerelleno.com/storage/animes/background/devilman-crybaby.jpg);}
+h1,h2{font-family: 'Roboto Condensed', sans-serif;}
+li{font-family: 'Oswald', sans-serif;}
+h2{background-color: brown;}
